@@ -1,31 +1,43 @@
-#InfoCrypto  
+InfoCrypto
 
-📢 **InfoCrypto** é um portal de notícias e preços de criptomoedas em tempo real. Nosso objetivo é fornecer informações atualizadas sobre o mercado cripto, incluindo preços, tendências, análises e novidades do setor.
+📢 InfoCrypto is a real-time cryptocurrency news and price portal.
+Our goal is to provide up-to-date information about the crypto market — including prices, trends, analysis, and the latest industry news.
 
-## 🌐 Acesse Agora
-🔗 **[InfoCrypto](https://infocripto.netlify.app/)**  
+🌐 Visit Now
+🔗 InfoCrypto
 
-## 🚀 Recursos
-✅ Cotação de criptomoedas em tempo real 📊  
-✅ Notícias atualizadas sobre o mercado cripto 📰  
-✅ Análises de tendências e gráficos 📈  
-✅ Informações sobre Bitcoin, Ethereum, Altcoins e muito mais 🔍  
-✅ Interface moderna e responsiva 💻📱  
+🚀 Features
 
-## 🛠 Tecnologias Utilizadas
-- **HTML, CSS e JavaScript** para o frontend
-- **API de Preços de Criptomoedas** para atualização em tempo real
-- **Netlify** para hospedagem do site
-- **GitHub** para controle de versão e colaboração
+✅ Real-time cryptocurrency prices 📊
+✅ Latest crypto market news 📰
+✅ Trend analysis and interactive charts 📈
+✅ Coverage of Bitcoin, Ethereum, Altcoins, and more 🔍
+✅ Modern and responsive interface 💻📱
 
-## 📌 Como Usar
-1. Acesse [InfoCrypto](https://infocripto.netlify.app/).
-2. Navegue pelas notícias mais recentes sobre criptomoedas.
-3. Confira os preços das principais moedas digitais.
-4. Fique informado sobre novas tendências do mercado cripto.
+🛠 Technologies Used
 
-## 📅 Melhorias Futuras
-- Implementação de um sistema de alertas de preços.
-- Análises técnicas mais detalhadas.
-- Seção educacional sobre blockchain e investimentos.
-- 
+Frontend: HTML, CSS, JavaScript
+
+API: Cryptocurrency Price API for real-time updates
+
+Hosting: Netlify
+
+Version Control: GitHub
+
+📌 How to Use
+
+Visit InfoCrypto.
+
+Browse the latest cryptocurrency news.
+
+Check real-time prices of top digital assets.
+
+Stay informed about crypto market trends.
+
+📅 Future Improvements
+
+Price alert notification system
+
+More detailed technical analysis
+
+Educational section about blockchain and crypto investing
